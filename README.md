@@ -1,4 +1,5 @@
 I'm a business analyst with strong data analysis and engineering background with experience in both hardware and software product development life cycle.
+
 👀 I’m passionate about product management, data analytics and storytelling.
 
 <!---
