@@ -2,18 +2,18 @@
 
 Just a curious soul exploring the intersection of data, automation and storytelling :)
 
-Currently diving deep into:-
-* Exploring ML models for demand forecasting
+<!-- Currently diving deep into:-
+* Exploring ML models for demand forecasting 
 * Effective data storytelling
 * Building more efficient ETL pipelines
-
+-->
 <p align="center"><em>“By seeking and blundering we learn”</em><br>― Johann Wolfgang von Goethe</p>
 
 <h2>🛠 My Skillset</h2>
 
-- *Data Analytics* - Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, SQL Server), Snowflake
-- *Data Visualization* - Tableau, Power BI, QuickSight
-- *Database Platforms* - AWS, Azure
+- *Data Analytics* - Python, SQL (PostgreSQL, SQL Server)
+- *Data Visualization* - Tableau, Power BI
+<!--- *Database Platforms* - AWS, Azure -->
 - *Process Automation* - PowerPlatform (PowerApps, PowerAutomate, PowerVirtualAgents), Alteryx, OutSystems
 - *Project Management* - Jira, MS Project
 
