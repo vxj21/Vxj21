@@ -12,8 +12,7 @@ Just a curious soul exploring the intersection of data, automation and storytell
 <h2>🛠 My Skillset</h2>
 
 - *Data Analytics* - Python, SQL (PostgreSQL, SQL Server)
-- *Data Visualization* - Tableau, Power BI
-<!--- *Database Platforms* - AWS, Azure -->
+- *Data Visualization* - Tableau, Power BI<!--- *Database Platforms* - AWS, Azure -->
 - *Process Automation* - PowerPlatform (PowerApps, PowerAutomate, PowerVirtualAgents), Alteryx, OutSystems
 - *Project Management* - Jira, MS Project
 
