@@ -21,7 +21,7 @@ Just a curious soul exploring the intersection of data, automation and storytell
 
 | 📅 [Project Tracker (Submission & Approval Tracking)](https://github.com/vxj21/PowerApps-Applications/tree/main/Submission%20%26%20Approval%20Tracker) | 🚀 [Product Lifecycle Management (Supply Chain Tool)](https://github.com/vxj21/PowerApps-Applications/tree/main/Supply%20chain%20tool) |  
 | :-: | :-: |  
-| [<img src="https://github.com/vxj21/PowerApps-Applications/blob/main/Submission%20%26%20Approval%20Tracker%20/Submission_approver_tracker_cover.png" width="400" height="200"/>](https://github.com/vxj21/PowerApps-Applications/tree/main/Submission%20%26%20Approval%20Tracker) | [<img src="https://github.com/vxj21/PowerApps-Applications/blob/main/Supply%20chain%20tool/PLR%20Hackathon.png" width="400" height="200"/>](https://github.com/vxj21/PowerApps-Applications/tree/main/Supply%20chain%20tool) |  
+| [<img src="https://github.com/vxj21/PowerApps-Applications/blob/main/Submission%20%26%20Approval%20Tracker%20/Submission_approver_tracker_cover.png" width="400" height="200"/>]([https://github.com/vxj21/PowerApps-Applications/tree/main/Submission%20%26%20Approval%20Tracker](https://github.com/vxj21/PowerApps-Applications/tree/main/Submission%20%26%20Approval%20Tracker%20)) | [<img src="https://github.com/vxj21/PowerApps-Applications/blob/main/Supply%20chain%20tool/PLR%20Hackathon.png" width="400" height="200"/>](https://github.com/vxj21/PowerApps-Applications/tree/main/Supply%20chain%20tool) |  
 
 <!-- <h2>📈 My Tableau Dashboards</h2>
 
